@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phonebook>
+  <entries>
+    <entry>
+      <name>Ned</name>
+      <number>555-8904</number>
+    </entry>
+    <entry>
+      <name>John</name>
+      <number>555-5782</number>
+    </entry>
+    <entry>
+      <name>Julius</name>
+      <number>555-3642</number>
+    </entry>
+  </entries>
+</phonebook>
+
+
